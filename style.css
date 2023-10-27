@@ -1,0 +1,21 @@
+.hct{
+    background-color: #010409;
+}
+
+.htext{
+    color: #010409;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.btn-m{
+    background-color: #010409;
+    color: white;
+}
+.btn-m:hover{
+    color: white;
+    background-color: #21262d;
+}
